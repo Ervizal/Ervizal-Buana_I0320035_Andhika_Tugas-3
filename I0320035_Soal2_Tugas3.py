@@ -9,5 +9,5 @@ My_identity["Hobi 1"] = "Travelling"            #Mengubah isi dari dictionary ["
 My_identity["Sosmed 2"] = "Zenly: vizaall"      #Mengubah isi dari dictionary ["Sosmed 2"]
 del My_identity["Makanan favorit 1"]            #Menghapus dictionary ["Makanan favorit 1"]
 del My_identity["Makanan favorit 2"]            #Menghapus dictionary ["Makanan favorit 2"]
-My_identity["Hobi 4"] = "Bersepeda"             #Menambahkan dictionary ["Hobi 4"]
+My_identity["Hobi 4"] = "Bersepeda"             #Menambahkan dictionary baru ["Hobi 4"]
 print(My_identity)                              #Menampilkan output dictionary yang baru
