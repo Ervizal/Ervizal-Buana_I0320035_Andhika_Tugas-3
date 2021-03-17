@@ -1,3 +1,6 @@
+print("=======================================")
+print("===== Identitas Teman dengan List =====")
+print("=======================================")
 #Pembuatan list array
 Identitas_teman = ['Sasa','Rafli','Alam','Yuku','Funny','Zaneta','Sekar','Hani','Stefany','Bonang'] #Mengisi value dari list
 print("Identitas_teman[4]: ", Identitas_teman[4])                                                   #Mencetak output list index ke-4

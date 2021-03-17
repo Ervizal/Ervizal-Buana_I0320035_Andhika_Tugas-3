@@ -1,3 +1,6 @@
+print("==========================================")
+print("==== Identitas Diri dengan Dictionary ====")
+print("==========================================")
 #Pembuatan dictionary
 My_identity = {"Nama":"Ervizal Buana", "Hobi 1":"Berenang", "Hobi 2":"Bermain gitar", "Hobi 3":"Memanah",
 			   "Sosmed 1":"instagram @eb_putra", "Sosmed 2":"linkedin: Ervizal Buana", "Sosmed 3":"twitter: @awgledek",
