@@ -12,6 +12,6 @@ Identitas_teman.append("Attar")
 Identitas_teman.append("Bagus")
 j = 0                                                                                               #Membuat nilai awal variabel untuk perulangan isi list
 for i in range (0,12):                                                                              #Perulangan dengan nilai i = 0 hingga i = 10 sehingga dapat melakukan print sebanyak 10 kali
-    print(Identitas_teman[j])                                                                       #Melakukan print list Identitas_teman dengan nilai index j = 0 hingga j = 10
+    print("Isi indeks list ke","[" + str(j) + "]", "adalah", Identitas_teman[j])                                                                       #Melakukan print list Identitas_teman dengan nilai index j = 0 hingga j = 10
     j+=1                                                                                            #Melakukan increment value pada variabel j
-print(len(Identitas_teman))                                                                         #Mencetak panjang/jumlah indeks pada list setelah diubah
+print("Panjang indeks list adalah", len(Identitas_teman))                                                                         #Mencetak panjang/jumlah indeks pada list setelah diubah
